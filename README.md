@@ -12,14 +12,6 @@ Librería portable para control de displays de 7 segmentos con multiplexación. 
 - ✅ Optimizada para máximo rendimiento
 - ✅ Fácil integración con cualquier microcontrolador
 
-## 🏗️ Estructura del Proyecto
-
-```
-project/
-├── seven_segments.h      # Header principal de la librería
-├── seven_segments.c      # Implementación core portable
-├── platform_impl.c       # Implementación específica de plataforma
-└── main.c                # Ejemplo de aplicación
 ```
 
 ## 🔧 Configuración Requerida
@@ -195,5 +187,3 @@ Para issues y preguntas, revisar:
 
 Libre para uso comercial y personal. Atribución opcional.
 ```
-
-Este README.md está listo para copiar y usar. Incluye toda la información importante en un formato organizado y profesional.
